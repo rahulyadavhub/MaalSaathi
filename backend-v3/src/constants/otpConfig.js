@@ -22,7 +22,7 @@ const OTP_PURPOSE = {
 const OTP_MESSAGES = {
     SENT:     'OTP aapke number pe SMS hua hai ✅\n10 minute mein enter karo',
     WRONG:    '❌ Galat OTP.',
-    EXPIRED:  '⏰ OTP expire ho gaya\n"resend" likhke naya mangao',
+    EXPIRED:  '⏰ OTP expire ho gaya\n"resend" likhke naya manglo',
     LOCKED:   '🔒 Bahut zyada galat attempts\n30 minute baad try karo',
     VERIFIED: '✅ OTP verified!',
 };
