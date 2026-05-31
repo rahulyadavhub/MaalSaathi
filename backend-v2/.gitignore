@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Build / cache
+dist/
+build/
+.cache/
+
+# Temp files
+tmp/
+temp/
+*.tmp
+
+# Quick test files
+test-*.js
+.DS_Store
+*.bak*
+src.bak.*
